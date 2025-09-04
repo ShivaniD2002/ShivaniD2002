@@ -7,10 +7,17 @@
 
 <!-- Circular profile image -->
 <p align="center">
-  <img src="Shivani_PHOTO.png"
-       alt="Shivani photo"
-       style="width:160px; height:160px; object-fit:cover; border-radius:50%; box-shadow:0 6px 24px rgba(0,0,0,.25);" />
+  <svg width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Shivani photo">
+    <defs>
+      <clipPath id="circleClip"><circle cx="80" cy="80" r="80"/></clipPath>
+    </defs>
+    <image href="assets/Shivani_PHOTO.png"
+           width="160" height="160"
+           preserveAspectRatio="xMidYMid slice"
+           clip-path="url(#circleClip)"/>
+  </svg>
 </p>
+
 
 <h1 align="center">Hi, I'm Shivani Dasari 👋</h1>
 <p align="center">
