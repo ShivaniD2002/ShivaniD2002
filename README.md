@@ -11,17 +11,15 @@
     <defs>
       <clipPath id="circleClip"><circle cx="80" cy="80" r="80"/></clipPath>
     </defs>
-    <image href="Shivani_PHOTO.png"
+    <image href="assets/Shivani_PHOTO.png"
            width="160" height="160"
            preserveAspectRatio="xMidYMid slice"
            clip-path="url(#circleClip)"/>
   </svg>
 </p>
 
-
 <h1 align="center">Hi, I'm Shivani Dasari 👋</h1>
-<p align="center">
-  Data Science & Software Engineering · Python · SQL · Cloud · Visualization <br/>
+<p align="center">  Application Development Associate ·Data Science & Software Engineering· Python · SQL · Cloud · Visualization <br/>
   <a href="https://shivanid2002.github.io">Portfolio</a> ·
   <a href="mailto:dshivani1121@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/dasarishivani21">LinkedIn</a>
@@ -66,11 +64,9 @@
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42"/><br/>Tableau</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/><br/>Windows</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-365-3.svg" height="42" alt="Microsoft 365"/>
-<br/>Office 365</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-365-3.svg" height="42" alt="Microsoft 365"/><br/>Office 365</td>
   </tr>
 </table>
-
 
 ---
 
