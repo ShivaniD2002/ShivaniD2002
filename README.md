@@ -51,7 +51,7 @@
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42"/><br/>Tableau</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/><br/>Windows</td>
-    <td align="center"><img src="https://pin.it/10Hyqpud3" height="42"/><br/>Office 365</td>
+    <td align="center"><img src="https://it.wustl.edu/app/uploads/2023/06/M365-Apps-1536x1256.png" height="42"/><br/>Office 365</td>
   </tr>
 </table>
 
