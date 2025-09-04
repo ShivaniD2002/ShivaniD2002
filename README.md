@@ -66,7 +66,8 @@
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42"/><br/>Tableau</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/><br/>Windows</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_365_logo.svg" height="42"/><br/>Office 365</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_icon_%282019%E2%80%93present%29.svg" height="42" alt="Microsoft 365"/>
+<br/>Office 365</td>
   </tr>
 </table>
 
