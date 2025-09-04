@@ -1,9 +1,4 @@
-<!-- Full-width banner -->
-<p align="center">
-  <img src="banner.svg"
-       alt="@ShivaniD2002 banner"
-       style="width:100%; border-radius:12px; box-shadow:0 6px 24px rgba(0,0,0,.18);" />
-</p>
+
 
 <!-- Circular profile image -->
 <p align="center">
