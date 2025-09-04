@@ -1,9 +1,10 @@
-
+<p align="center">
+  <img src="banner.svg"
+       alt="@ShivaniD2002 banner"
+       style="max-width:100%; width:100%; border-radius:12px;" />
+</p>
 
 <!-- Circular profile image -->
-<p align="center">
-  <img src="Shivani_PHOTO.png" alt="Shivani photo" width="140" style="border-radius:16px;" />
-</p>
 
 <h1 align="center">Hi, I'm Shivani Dasari 👋</h1>
 <p align="center">  Application Development Associate ·Data Science & Software Engineering· Python · SQL · Cloud · Visualization <br/>
