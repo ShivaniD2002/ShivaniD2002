@@ -51,7 +51,7 @@
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42"/><br/>Tableau</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/><br/>Windows</td>
-    <td align="center"><img src="[https://cdn.worldvectorlogo.com/logos/microsoft-365-3.svg](https://www.google.com/imgres?q=microsoft%20office%20365%20LOGO&imgurl=https%3A%2F%2Finfologo.ch%2Fwp-content%2Fuploads%2F2024%2F09%2FM365-Apps.webp&imgrefurl=https%3A%2F%2Finfologo.ch%2Fen%2Fmicrosoft-365-offers%2F&docid=e2RNbNT0JLXHSM&tbnid=3xx-cFB38LoAoM&vet=12ahUKEwi9od6qicCPAxVnBEQIHa_VC_UQM3oECDAQAA..i&w=1024&h=837&hcb=2&ved=2ahUKEwi9od6qicCPAxVnBEQIHa_VC_UQM3oECDAQAA)" height="42" alt="Microsoft 365"/><br/>Office 365</td>
+    <td align="center"><img src="https://pin.it/10Hyqpud3" height="42"/><br/>Office 365</td>
   </tr>
 </table>
 
